@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+CreditScore_save1_combiner.pkl
+CreditScore_save2_woe_transform.pkl
+CreditScore_save3_final_data_woe.csv
+CreditScore_save4_IV.csv
+CreditScore_save5_ScoreCard.pkl
+CreditScore_save6_score_card_df.csv
+OrderScore_save7_whole_data.csv
